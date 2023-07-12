@@ -1,0 +1,7 @@
+pandas
+folium
+streamlit_folium
+streamlit
+aiohttp
+asyncio
+httpx
